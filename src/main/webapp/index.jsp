@@ -1,14 +1,14 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Himanshu IT - Software Training Institute <font></h1>
+<h1><font color='red'> Welcome to Himanshu IT - Software Service  <font></h1>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Himanshu IT Training Schedules</a>
+<a href="https://eforms.nic.in/OnlineForms/">Click Here To See Himanshu eforms platform</a>
   
-  <h2> Call Us : + 91 - 97 53 50 98 40 / 99 85 29 66 77</h2>
+  <h2> Call Us : + 91 - 97 53 50 98 40 / 7000037259</h2>
   
-  <h3> Ofc Location : Ameerpet, Hyderbad </h3>
+  <h3> Ofc Location : Nic, delhi </h3>
   
-  <h1> Learn Here.. Lead Anywhere..!! </h1>
+  <h1> NDC.. Shastri Park..!! </h1>
 
 </body>
 </html>
