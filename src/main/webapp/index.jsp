@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Himanshu IT Devops - Software Service  <font></h1>
+<h1><font color='red'> Welcome to Himanshu IT Devops - Software Platform  <font></h1>
 
 <a href="https://eforms.nic.in/OnlineForms/">Click Here To See Himanshu eforms platform</a>
   
